@@ -3,7 +3,7 @@
 
 ---
 
-- 📝 I'm a student at the academy of courses - [https://web.digitalinnovation.one/](https://web.digitalinnovation.one/)
+- 📝 I'm a student at the academy of courses - [https://soulcodeacademy.org/](https://soulcodeacademy.org/)
 
 - ⚡ **Curiosity: I love technology, that's why I'm studying development as self-dictated.**
 - 📫 How to reach me
