@@ -8,7 +8,7 @@
 - ⚡ **Curiosity: I love technology, that's why I'm studying development as self-dictated.**
 - 📫 How to reach me
 - - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="20"> Linkedin: **[Paulo Henrique Jr](https://www.linkedin.com/in/paulohenrique-jr/)**
-- - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" height="20"> Email: **pauloblogsbrasil@gmail.com**
+- - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" height="20"> Email: **elmineirodev@gmail.com**
 
 ---
 
